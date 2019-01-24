@@ -54,6 +54,10 @@ void System_Initializes(void)
 int main(void)
 {
   System_Initializes();
+  System_Initializes();
+  System_Initializes();
+  System_Initializes();
+  System_Initializes();
 
   while(1)
   {
